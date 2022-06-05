@@ -1,0 +1,11 @@
+# Ignore VS Code settings file
+.vscode
+
+# Ignore Python cache folder
+__pycache__
+
+# Ignore DS_Store
+.DS_Store
+
+# Ignore checkpoints
+.ipynb_checkpoints
